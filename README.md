@@ -9,7 +9,9 @@
   2、安装所需依赖库。
   
   3、运行test1.py。
+
 测试图片：
+  
   ![github](https://github.com/MrJoeyM/FaceAndEyeDetect/blob/master/img/timg.jpg "github") 
 
 检测结果：
